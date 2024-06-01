@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My Name is **Santiago Forero Yate**, someone passionate about **Systems Engineering**.
 
 
-Now, I'm student of [Colombian School of Engineering Julio Garavito](https://www.escuelaing.edu.co/es/programas/ingenieria-de-sistemas/)
+Now, I'm student of [Colombian School of Engineering Julio Garavito](https://www.escuelaing.edu.co/es/programas/ingenieria-de-sistemas/) 
 
 ## interests 🙋‍♂️
 My principal interests are software development 💻🧑‍💻 and cibersecurity 🥷
