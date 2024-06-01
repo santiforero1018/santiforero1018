@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My Name is **Santiago Forero Yate**, someone passionate about Systems **Engineering**.
+My Name is **Santiago Forero Yate**, someone passionate about **Systems Engineering**.
 
 
 Now, I'm student of [Colombian School of Engineering Julio Garavito](https://www.escuelaing.edu.co/es/programas/ingenieria-de-sistemas/)
